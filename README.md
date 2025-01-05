@@ -1,0 +1,2 @@
+# smart-search-feature-for-all-free-courses-on-Analytics-Vidhya-s-platform
+Here’s what you need to do: 1. Browse through the free courses on the platform: Explore and collect data (e.g., course titles, descriptions, curriculum) from the free courses available on Analytics Vidhya platform. 2. Develop a smart search system: Build a search tool that quickly finds and suggests the most relevant courses.
